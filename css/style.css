@@ -3554,7 +3554,7 @@ input[type=number] {
 	left: 0px;
 	width: 370px;
 	height: 100vh;
-	background-color: #fff;
+	background-color: #333333;
 	z-index: 20;
 }
 .iknow_tm_sidebar_2 .sidebar_inner{
@@ -3651,7 +3651,7 @@ input[type=number] {
 }
 .iknow_tm_sidebar_2 .menu ul li span{
 	font-size: 15px;
-	color: #222;
+	color: #fff !important;
 	font-weight: 700;
 	text-transform: uppercase;
 	
@@ -3674,7 +3674,7 @@ input[type=number] {
 	left: 370px;
 	right: 0px;
 	height: 100vh;
-	background-color: #fef5f1;
+	background-color: #333333;
 }
 .iknow_tm_fixed_mainpart .mainpart_inner{
 	position: relative;

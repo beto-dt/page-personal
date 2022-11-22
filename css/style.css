@@ -3629,12 +3629,12 @@ input[type=number] {
 	color: #222;
 }
 .iknow_tm_sidebar_2 .menu ul li.mleave.active .svg{
-	color: #ff451b;
+	color: #e4e357;
 }
 .iknow_tm_sidebar_2 .menu ul li .svg{
 	width: 27px;
 	height: 27px;
-	color: #ff451b;
+	color: #e4e357;
 	position: absolute;
 	top: 50%;
 	transform: translateY(-50%);
